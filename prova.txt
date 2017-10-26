@@ -1,2 +1,6 @@
 1. Inserisci immagini di riferimento
 2. Modellazione gambe
+3. fine modellazione gamba
+4. copia gambe
+5. inizio ripiano
+6. fine ripiano
